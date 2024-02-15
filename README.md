@@ -1,6 +1,6 @@
 ## Hi, I'm Kendra!
 [![Gmail Badge](https://img.shields.io/badge/-vansaet.kendra@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vansaet.kendra@gmail.com)](mailto:vansaet.kendra@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-vansaetkendra-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vansaetkendra/)](https://www.linkedin.com/in/vansaetkendra/) [![Github Badge](https://img.shields.io/badge/-kencakes-grey?style=flat&logo=github&logoColor=white&link=https://github.com/kencakes/)](https://www.github.com/kencakes/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://vansaetkendra.sinners.be//)](https://vansaetkendra.sinners.be//) 
+[![Linkedin Badge](https://img.shields.io/badge/-vansaetkendra-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vansaetkendra/)](https://www.linkedin.com/in/kendravansaet/) [![Github Badge](https://img.shields.io/badge/-kencakes-grey?style=flat&logo=github&logoColor=white&link=https://github.com/kencakes/)](https://www.github.com/kencakes/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://vansaetkendra.sinners.be//)](https://vansaetkendra.sinners.be//) 
 
 - Studied Programming at Thomas More College in Belgium<br/><br/>
 
