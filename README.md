@@ -31,7 +31,3 @@
 <h2>Some of my GitHub Stats</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kencakes&layout=compact)](https://github.com/kencakes/github-readme-stats)
-
-# Some of my Github Stats
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kencakes&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
